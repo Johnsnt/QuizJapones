@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">QuizProjetoFinal</string>
+    <!-- Texto base -->
+    <string name="titulo">App Quiz Japonês</string>
+    <string name="digiteNome">Digite seu nome</string>
+    <string name="comecar">Começar Quiz</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="VoltarMenu">Menu Inicial</string>
+    <string name="enviar">Enviar Respostas</string>
+    <string name="acertos">Você acertou:</string>
+    <string name="erros">Você errou:</string>
+    <string name="sobre">Sobre</string>
+    <string name="sobreTexto">Este aplicativo foi desenvolvido como atividade do curso da ETEC,
+        com o objetivo de colocar em prática os conceitos básicos de desenvolvimento Android com Java no Android
+        Studio.
+
+        Ele funciona como um quiz de 10 perguntas para testar seus conhecimentos sobre o japão,
+        com o tema escolhido levando em consideração o aprendizado de japonês para pessoas que já tiveram algum mínimo contato.
+        Ao final, você vê quantas questões acertou e quais errou.</string>
+
+
+    <!-- Pergunta 1 -->
+    <string name="perg1Texto">1. 「毎日、図書館で勉強します。」 O que a palavra 「図書館」 significa?</string>
+    <string name="rdb1p1">Escola</string>
+    <string name="rdb2p1">Biblioteca</string>
+    <string name="rdb3p1">Hospital</string>
+    <string name="rdb4p1">Estação de trem</string>
+    <!-- Resposta certa: alternativa 2 -->
+
+    <!-- Pergunta 2 -->
+    <string name="perg2Texto">2. Qual é a forma negativa no passado do verbo 「食べます」?</string>
+    <string name="rdb1p2">食べません</string>
+    <string name="rdb2p2">食べなかった</string>
+    <string name="rdb3p2">食べますでした</string>
+    <string name="rdb4p2">食べませんでした</string>
+    <!-- Resposta certa: alternativa 4 -->
+
+    <!-- Pergunta 3 -->
+    <string name="perg3Texto">3. 「昨日、友達と映画を見ました。」 Qual é a leitura do Kanji 「映画」?</string>
+    <string name="rdb1p3">えいご</string>
+    <string name="rdb2p3">えいが</string>
+    <string name="rdb3p3">おんがく</string>
+    <string name="rdb4p3">ざっし</string>
+    <!-- Resposta certa: alternativa 2 -->
+
+    <!-- Pergunta 4 -->
+    <string name="perg4Texto">4. Preencha a lacuna: 「雨が降っているから、タクシー（ ）乗りましょう。」</string>
+    <string name="rdb1p4">で</string>
+    <string name="rdb2p4">を</string>
+    <string name="rdb3p4">に</string>
+    <string name="rdb4p4">へ</string>
+    <!-- Resposta certa: alternativa 3 -->
+
+    <!-- Pergunta 5 -->
+    <string name="perg5Texto">5. O que significa a frase: 「危ないですから、あまり遠くへ行かないでください。」?</string>
+    <string name="rdb1p5">Por ser perigoso, não vá muito longe, por favor.</string>
+    <string name="rdb2p5">Por favor, vá para longe rapidamente.</string>
+    <string name="rdb3p5">Como está escuro, não ande devagar.</string>
+    <string name="rdb4p5">Não venha para cá, por favor.</string>
+    <!-- Resposta certa: alternativa 1 -->
+
+    <!-- Pergunta 6 -->
+    <string name="perg6Texto">6. Qual palavra em Katakana significa "restaurante"?</string>
+    <string name="rdb1p6">デパート</string>
+    <string name="rdb2p6">ホテル</string>
+    <string name="rdb3p6">コンビニ</string>
+    <string name="rdb4p6">レストラン</string>
+    <!-- Resposta certa: alternativa 4 -->
+
+    <!-- Pergunta 7 -->
+    <string name="perg7Texto">7. Como se traduz a expressão 「日本語で話してください。」?</string>
+    <string name="rdb1p7">Escreva em japonês, por favor.</string>
+    <string name="rdb2p7">Fale em japonês, por favor.</string>
+    <string name="rdb3p7">Estude japonês, por favor.</string>
+    <string name="rdb4p7">Ouça em japonês, por favor.</string>
+    <!-- Resposta certa: alternativa 2 -->
+
+    <!-- Pergunta 8 -->
+    <string name="perg8Texto">8. Qual é o significado do kanji 「買」 na frase 「新しい車を買いました。」?</string>
+    <string name="rdb1p8">Vender</string>
+    <string name="rdb2p8">Dirigir</string>
+    <string name="rdb3p8">Comprar</string>
+    <string name="rdb4p8">Lavar</string>
+    <!-- Resposta certa: alternativa 3 -->
+
+    <!-- Pergunta 9 -->
+    <string name="perg9Texto">9. Qual partícula preenche corretamente a frase de horário: 「会議は９時（ ）始まります。」?</string>
+    <string name="rdb1p9">に</string>
+    <string name="rdb2p9">で</string>
+    <string name="rdb3p9">を</string>
+    <string name="rdb4p9">が</string>
+    <!-- Resposta certa: alternativa 1 -->
+
+    <!-- Pergunta 10 -->
+    <string name="perg10Texto">10. Qual é a leitura correta do Kanji na palavra 「来週」?</string>
+    <string name="rdb1p10">こんしゅう</string>
+    <string name="rdb2p10">せんしゅう</string>
+    <string name="rdb3p10">まいしゅう</string>
+    <string name="rdb4p10">らいしゅう</string>
+    <!-- Resposta certa: alternativa 4 -->
+
+</resources>
